@@ -27,6 +27,8 @@
 
 ---
 
+> 本项目基于 [AgentOne（灵一）](https://github.com/sangshy-go/AgentOne)（MIT License）修改，保留原版权声明。
+
 ## 🤔 AgentOne 是什么
 
 AgentOne 是一个**开箱即用的 AI Agent 中台**。它把构建 AI 助手所需的模型接入、知识库 RAG、Agent 编排、Skill 生态、MCP 集成、IM 接入、流式对话、多租户隔离和开放 API 等能力，封装成一套带完整管理后台的产品——不需要写一行代码，在页面上点一点，就能拥有自己的企业级 AI 助手，并通过 API / IM 机器人接入任意业务系统。
